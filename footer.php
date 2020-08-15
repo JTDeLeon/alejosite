@@ -10,13 +10,13 @@
     </div>
     <div class="right">
         <div class="icons-container">
-            <a class="" href=""><i class="fa fa-facebook" aria-hidden="true"></i></a>
-            <a class="" href=""><i class="fa fa-twitter" aria-hidden="true"></i></a>
-            <a class="" href=""><i class="fa fa-linkedin" aria-hidden="true"></i></a>
-            <a class="" href=""><i class="fa fa-instagram" aria-hidden="true"></i></a>
-            <a href=""><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
-            <a href=""><i class="fa fa-imdb" aria-hidden="true"></i></a>
-            <a href=""><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
+            <a class="" href="https://web.facebook.com/alejandro.munoz.94"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+            <a class="" href="https://twitter.com/alejand36464996"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+            <a class="" href="https://www.linkedin.com/in/alejandro-mu%C3%B1oz-r%C3%BAa-bb10021b4/"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+            <a class="" href="https://www.instagram.com/alejo_visualproducer"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+            <a href="https://www.youtube.com/channel/UC6cPlzXLUV6JRnCiN3GDGBw"><i class="fa fa-youtube-play" aria-hidden="true"></i></a>
+            <a href="https://www.imdb.com/user/ur122420277/?ref_=nv_usr_prof_2"><i class="fa fa-imdb" aria-hidden="true"></i></a>
+            <a href="mailto:alejandromunozrua@gmail.com"><i class="fa fa-envelope-o" aria-hidden="true"></i></a>
         </div>
     </div>
 </footer>

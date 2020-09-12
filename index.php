@@ -29,7 +29,7 @@ Template Name: Custom Homepage
             <div class="column">
                 <div class="imagery">
                     <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OuQ0iSNGwgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-                    <img src="/wp-content/themes/alejosite/images/gall/gallery (55).JPG" alt="">
+                    <img src="/wp-content/themes/alejosite/images/gall/gallery (55)-min.JPG" alt="">
                 </div>
                 <p class="imagetitle">Music Videos</p>
                 <p class="description">Directing and producing music videos is one of my biggest passions as well as my specialty. I am able to produce videos with both creative concepts and performances, combining the artist’s vision and style with my own perspectives. I have worked with local and international artists on both large and small-scale productions in genres such as reggaeton, pop, and electronic music. </p>
@@ -40,7 +40,7 @@ Template Name: Custom Homepage
             <div class="column">
                 <div class="imagery">
                     <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OuQ0iSNGwgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-                    <img src="/wp-content/themes/alejosite/images/gall/gallery (52).JPG" alt="">
+                    <img src="/wp-content/themes/alejosite/images/gall/gallery (52)-min.JPG" alt="">
                 </div>
                 <p class="imagetitle">Commercial Films</p>
                 <p class="description">Through my experience in production, I am able to create video content for individual advertising campaigns. I take the time to understand the product and audience in order to create the appropriate corresponding deliverable, through either commercials, Facebook advertising, or Instagram advertising. </p>
@@ -112,66 +112,66 @@ soon.</p>
 <section class="gallery">
     <div class="inner-section">
         <div class="gallery-container">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (1).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (2).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (3).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (4).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (5).JPG" alt="">
-            <!-- <img src="/wp-content/themes/alejosite/images/gall/gallery (6).JPG" alt=""> -->
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (7).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (8).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (9).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (10).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (11).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (12).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (13).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (14).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (15).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (16).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (17).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (18).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (19).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (20).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (21).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (22).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (23).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (24).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (25).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (26).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (27).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (28).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (29).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (30).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (31).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (32).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (33).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (34).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (35).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (36).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (37).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (38).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (39).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (40).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (41).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (42).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (43).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (44).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (45).JPG" alt="">
-            <!-- <img src="/wp-content/themes/alejosite/images/gall/gallery (46).JPG" alt=""> -->
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (47).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (48).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (49).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (50).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (51).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (52).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (53).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (54).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (55).JPG" alt="">
-            <!-- <img src="/wp-content/themes/alejosite/images/gall/gallery (56).JPG" alt=""> -->
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (57).JPG" alt="">
-            <!-- <img src="/wp-content/themes/alejosite/images/gall/gallery (58).JPG" alt=""> -->
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (59).JPG" alt="">
-            <img src="/wp-content/themes/alejosite/images/gall/gallery (60).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (1)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (2)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (3)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (4)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (5)-min.JPG" alt="">
+            <!-- <img src="/wp-content/themes/alejosite/images/gall/gallery (6)-min.JPG" alt=""> -->
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (7)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (8)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (9)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (10)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (11)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (12)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (13)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (14)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (15)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (16)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (17)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (18)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (19)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (20)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (21)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (22)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (23)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (24)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (25)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (26)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (27)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (28)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (29)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (30)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (31)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (32)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (33)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (34)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (35)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (36)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (37)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (38)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (39)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (40)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (41)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (42)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (43)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (44)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (45)-min.JPG" alt="">
+            <!-- <img src="/wp-content/themes/alejosite/images/gall/gallery (46)-min.JPG" alt=""> -->
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (47)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (48)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (49)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (50)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (51)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (52)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (53)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (54)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (55)-min.JPG" alt="">
+            <!-- <img src="/wp-content/themes/alejosite/images/gall/gallery (56)-min.JPG" alt=""> -->
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (57)-min.JPG" alt="">
+            <!-- <img src="/wp-content/themes/alejosite/images/gall/gallery (58)-min.JPG" alt=""> -->
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (59)-min.JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gall/gallery (60)-min.JPG" alt="">
         </div>
     </div>
 </section>

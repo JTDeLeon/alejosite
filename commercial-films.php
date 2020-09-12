@@ -9,7 +9,7 @@ Template Name: Commercial Films
     <div class="inner-section">
         <div class="top-sec">
             <div class="img-contain">
-                <img src="/wp-content/themes/jonathanTheme/images/unsplash-blackcam.jpg" alt="">
+                <img src="/wp-content/themes/alejosite/images/unsplash-blackcam.jpg" alt="">
             </div>
             <div class="text-container">
                 <h2>New Videos<br/><span class="color-accent">Coming Soon!</span></h2>

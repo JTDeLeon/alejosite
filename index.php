@@ -29,7 +29,7 @@ Template Name: Custom Homepage
             <div class="column">
                 <div class="imagery">
                     <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OuQ0iSNGwgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-                    <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (55).JPG" alt="">
+                    <img src="/wp-content/themes/alejosite/images/gallery/gallery (55).JPG" alt="">
                 </div>
                 <p class="imagetitle">Music Videos</p>
                 <p class="description">Directing and producing music videos is one of my biggest passions as well as my specialty. I am able to produce videos with both creative concepts and performances, combining the artist’s vision and style with my own perspectives. I have worked with local and international artists on both large and small-scale productions in genres such as reggaeton, pop, and electronic music. </p>
@@ -40,7 +40,7 @@ Template Name: Custom Homepage
             <div class="column">
                 <div class="imagery">
                     <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OuQ0iSNGwgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-                    <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (52).JPG" alt="">
+                    <img src="/wp-content/themes/alejosite/images/gallery/gallery (52).JPG" alt="">
                 </div>
                 <p class="imagetitle">Commercial Films</p>
                 <p class="description">Through my experience in production, I am able to create video content for individual advertising campaigns. I take the time to understand the product and audience in order to create the appropriate corresponding deliverable, through either commercials, Facebook advertising, or Instagram advertising. </p>
@@ -51,7 +51,7 @@ Template Name: Custom Homepage
             <div class="column">
                 <div class="imagery">
                     <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/OuQ0iSNGwgU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
-                    <img src="/wp-content/themes/jonathanTheme/images/socialmedia-cam.jpg" alt="">
+                    <img src="/wp-content/themes/alejosite/images/socialmedia-cam.jpg" alt="">
                 </div>
                 <p class="imagetitle">Social Media Consultation</p>
                 <p class="description">Over time, I have organically grown my Instagram account to 8.000+ followers and successfully created a supportive and positive online community. Now, I want to help others achieve the same. Through my social media consultations, I will work with each client, understanding their individual needs, market, and creativity, and help them develop a social media strategy to meet their desired results. We will meet for two hours per week to discuss the plans from beginning to end. I aim to teach others how to achieve sustainable growth and success on social media, ultimately leading to increased exposure and long-term career development. </p>
@@ -112,66 +112,66 @@ soon.</p>
 <section class="gallery">
     <div class="inner-section">
         <div class="gallery-container">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (1).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (2).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (3).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (4).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (5).JPG" alt="">
-            <!-- <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (6).JPG" alt=""> -->
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (7).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (8).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (9).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (10).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (11).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (12).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (13).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (14).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (15).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (16).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (17).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (18).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (19).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (20).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (21).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (22).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (23).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (24).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (25).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (26).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (27).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (28).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (29).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (30).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (31).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (32).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (33).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (34).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (35).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (36).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (37).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (38).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (39).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (40).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (41).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (42).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (43).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (44).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (45).JPG" alt="">
-            <!-- <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (46).JPG" alt=""> -->
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (47).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (48).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (49).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (50).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (51).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (52).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (53).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (54).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (55).JPG" alt="">
-            <!-- <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (56).JPG" alt=""> -->
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (57).JPG" alt="">
-            <!-- <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (58).JPG" alt=""> -->
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (59).JPG" alt="">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (60).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (1).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (2).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (3).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (4).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (5).JPG" alt="">
+            <!-- <img src="/wp-content/themes/alejosite/images/gallery/gallery (6).JPG" alt=""> -->
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (7).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (8).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (9).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (10).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (11).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (12).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (13).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (14).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (15).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (16).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (17).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (18).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (19).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (20).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (21).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (22).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (23).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (24).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (25).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (26).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (27).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (28).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (29).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (30).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (31).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (32).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (33).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (34).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (35).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (36).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (37).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (38).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (39).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (40).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (41).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (42).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (43).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (44).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (45).JPG" alt="">
+            <!-- <img src="/wp-content/themes/alejosite/images/gallery/gallery (46).JPG" alt=""> -->
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (47).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (48).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (49).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (50).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (51).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (52).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (53).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (54).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (55).JPG" alt="">
+            <!-- <img src="/wp-content/themes/alejosite/images/gallery/gallery (56).JPG" alt=""> -->
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (57).JPG" alt="">
+            <!-- <img src="/wp-content/themes/alejosite/images/gallery/gallery (58).JPG" alt=""> -->
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (59).JPG" alt="">
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (60).JPG" alt="">
         </div>
     </div>
 </section>

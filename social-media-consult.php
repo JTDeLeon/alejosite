@@ -8,7 +8,7 @@ Template Name: Social Media Consultation Page
     <div class="inner-section">
         <div class="top-sec">
             <div class="img-contain">
-                <img src="/wp-content/themes/jonathanTheme/images/socialmedia-cam.jpg" alt="">
+                <img src="/wp-content/themes/alejosite/images/socialmedia-cam.jpg" alt="">
             </div>
             <div class="text-container">
                 <h2>Social Media Management<br/><span class="color-accent">For Every Type of Brand</span></h2>

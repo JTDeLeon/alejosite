@@ -8,7 +8,7 @@ Template Name: Custom About Page
 <section class="about-sec">
     <div class="inner-sec">
         <div class="img-contain">
-            <img src="/wp-content/themes/jonathanTheme/images/gallery/gallery (12).jpg" alt=""> 
+            <img src="/wp-content/themes/alejosite/images/gallery/gallery (12).jpg" alt=""> 
         </div>
         <h1>Biography</h1>
         <p>Hola parceros! My name is Alejandro Muñoz and I am a Colombian director, producer, and videographer from Medellín, Colombia. I started my journey in film eight years ago when I studied communications and visual languages in university. Ever since then, I’ve been living a life full of creativity, appreciating the beauty and colors of my culture and implementing them into all of my projects. </p>
